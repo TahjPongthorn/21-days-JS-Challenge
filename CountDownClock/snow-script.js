@@ -1,5 +1,4 @@
 (() => {
-	// เริ่มเขียนโค้ด
 	function setup() {
 		const canvas = document.getElementById("falling-snow-canvas");
 		canvas.width = window.innerWidth;
